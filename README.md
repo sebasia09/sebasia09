@@ -4,4 +4,6 @@
   - Turma 24400431, professora Rosangela
   
   contato:
-  joao.konno@escola.pr.gov.br
+ <a href=https://api.whatsapp.com/send?phone=NUMEROAQ>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
