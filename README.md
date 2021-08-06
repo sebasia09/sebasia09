@@ -2,7 +2,7 @@
 <h2>Hii, I'm Sebasia09 🐙 </h2>
 :brazil: Brazilian  <br>
 🤿 Studying JAVA at <a href="https://cursos.alura.com.br/user/joao-konno">alura</a><br>
-:school_satchel: 17y/o
+:school_satchel: 17y/o<br>
 :joystick: Gaming
 <h2> Alura 🤿</h2>
 <p><img align=left src="https://thumbs.gfycat.com/SlimHorribleIcefish.webp" width=100 >✨  Certificates  . . . . .  . .<a href="https://cursos.alura.com.br/user/joao-konno/course/logica-programacao-pratica-com-desenho-animacoes-em-jogo/certificate"><img width=30 src="https://www.alura.com.br/assets/api/cursos/logica-programacao-pratica-com-desenho-animacoes-em-jogo.svg"></a>
