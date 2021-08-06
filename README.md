@@ -7,7 +7,8 @@
 <h2> Alura 🤿</h2>
 <p><img align=left src="https://thumbs.gfycat.com/SlimHorribleIcefish.webp" width=100 >✨  Certificates  . . . . .  . .<a href="https://cursos.alura.com.br/user/joao-konno/course/logica-programacao-pratica-com-desenho-animacoes-em-jogo/certificate"><img width=30 src="https://www.alura.com.br/assets/api/cursos/logica-programacao-pratica-com-desenho-animacoes-em-jogo.svg"></a>
 <a href="https://cursos.alura.com.br/user/joao-konno/course/logica-programacao-javascript-html/certificate"><img width=30 src="https://www.alura.com.br/assets/api/cursos/logica-programacao-javascript-html.svg"></a>
-<a href="https://cursos.alura.com.br/user/joao-konno/course/java-primeiros-passos/certificate"><img width=30 src="https://www.alura.com.br/assets/api/cursos/java-primeiros-passos.svg"></a>  <br>  
+<a href="https://cursos.alura.com.br/user/joao-konno/course/java-primeiros-passos/certificate"><img width=30 src="https://www.alura.com.br/assets/api/cursos/java-primeiros-passos.svg"></a>
+ <a href="https://cursos.alura.com.br/user/joao-konno/course/java-introducao-orientacao-objetos/certificate"><img width=30 src="https://www.alura.com.br/assets/api/cursos/java-introducao-orientacao-objetos.svg"></a><br>  
  👩‍🏫 Teacher <a href="https://github.com/rosangelalves">Rosangela</a><br>
 🌐 Edutech</p>
 
